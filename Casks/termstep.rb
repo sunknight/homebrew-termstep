@@ -8,5 +8,4 @@ cask "termstep" do
   homepage "https://github.com/sunknight/termstep"
 
   app "TermStep.app"
-  uninstall delete: "/Applications/TermStep.app"
 end
