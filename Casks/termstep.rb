@@ -1,6 +1,6 @@
 cask "termstep" do
-  version "1.5.0"
-  sha256 "477cc1708eef654f65437c3789cd3307d27a736ebd917e0e3b84e4e501d6da89"
+  version "1.5.1"
+  sha256 "c778d8378bace7d3cb6e53aa9c2cd3c89d81a5e59daa0dac6987df478d9b541a"
 
   url "https://github.com/sunknight/termstep/releases/download/v#{version}/TermStep_#{version}_universal.dmg"
   name "TermStep"
